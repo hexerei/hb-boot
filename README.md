@@ -64,6 +64,8 @@ $ harp compile myproject
 
 Now you will find a directory called ```www``` which will contain your final files that you can publish on your webserver via ssh or ftp connection.
 
+--
+
 ###Enjoy your project! 
 
 Daniel Vorhauer  
@@ -76,5 +78,5 @@ My grateful thanks goes to the developers of:
  - [initializr](http://www.initializr.com)
  - [node.js](https://nodejs.org)
  - [Sass](http://sass-lang.com)
- - and all other sources that are used
+ - *and all other sources that are used*
 
