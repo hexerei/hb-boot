@@ -1,0 +1,9 @@
+{
+  "basicAuth": "user:pass",
+  "globals": {
+    "title": "Acme Site",
+    "name"  : "John Doe",
+    "email"  : "John.Doe@acme.com",
+    "uri": "http://example.com"
+  }
+}
