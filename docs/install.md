@@ -1,6 +1,6 @@
 # Install
 
-**tl;dr**: [Download WSK](https://github.com/google/web-starter-kit/releases/latest) and run `$ npm install --global gulp && npm install` in that directory to get started.
+**tl;dr**: [Download WSK](https://github.com/google/web-starter-kit/releases/latest) and run `$ npm install --global gulp && npm install` in a directory or your choice to get started. This will install the Web Starter Kit
 
 -
 
@@ -14,7 +14,7 @@ To take advantage of Web Starter Kit you need to:
 ## Getting the code
 
 [Download](https://github.com/google/web-starter-kit/releases/latest) and extract WSK to where you want to work.
-Then to Update your project to Bootstrap 4 dev, [Download][https://github.com/hexerei/hb-boot] and copy files to the directory you chose for work.
+Then to Update your project to Bootstrap 4 dev, [Download](https://github.com/hexerei/hb-boot) and copy files to the directory you chose for work.
 
 ## Prerequisites
 
