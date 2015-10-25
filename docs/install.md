@@ -14,6 +14,7 @@ To take advantage of Web Starter Kit you need to:
 ## Getting the code
 
 [Download](https://github.com/google/web-starter-kit/releases/latest) and extract WSK to where you want to work.
+Then to Update your project to Bootstrap 4 dev, [Download][https://github.com/hexerei/hb-boot] and copy files to the directory you chose for work.
 
 ## Prerequisites
 
